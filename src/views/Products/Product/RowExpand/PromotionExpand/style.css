@@ -1,0 +1,11 @@
+.box-height{
+    height: 35px !important;
+}
+/* //fonts */
+.f-edit{
+    color: grey;
+    margin-left: 6px !important;
+}
+.f-edit:hover{
+    /* background: red; */
+}

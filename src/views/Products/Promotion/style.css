@@ -1,0 +1,26 @@
+.no-image{
+    padding-left: 70px;
+    padding-top: 10px;
+}
+.float-action-fixed{
+    position: absolute;
+    height: 77px;
+    width: 83px;
+    margin-top: -38px;
+    margin-left: -5px;
+    background-color: white;
+    z-index: 15;
+}
+.add-mrg-top{
+    margin-top: 19px;
+}
+.invalid-border-clr{
+    border-color: red !important;
+}
+.valid-border-clr{
+    border-color: green !important;
+}
+.add-image{
+    color: #20a8d8 !important;
+    text-decoration: underline !important;
+}

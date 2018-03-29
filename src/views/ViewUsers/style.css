@@ -1,0 +1,106 @@
+.btn-add {
+    position: absolute; width: 0px; z-index: auto; left: auto; top: auto;
+
+}
+.btn-add2{
+    position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-0-12 1s linear infinite;
+}
+.btn-add3{
+ position: absolute; width: 5.36px; height: 2px; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(5.6px, 0px); border-radius: 1px;
+}
+.btn-add4{
+    position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-1-12 1s linear infinite;
+}
+.user-div{
+    margin-left: -40px!important;
+    margin-right: -40px !important;
+    margin-top: -19px !important;
+}
+.user-table{
+    margin-left: -5.5px !important;
+    margin-top: -21px !important;
+    margin-right: -5.5px !important;
+}
+.readonly-bg{
+    background-color: #f9f9f9 !important;
+    opacity: .6 !important;
+}
+.readonly-style2{
+    background-color:lightgoldenrodyellow !important;opacity : .6 !important;
+    color: black !important
+}
+.menuitem-style{
+    min-height: 0px !important;
+    font-size:15px !important;
+    line-height: 22px !important;
+}
+.menu-style{
+    width: 210px !important;
+    font-size:14px !important;
+    min-height: 0px !important;
+}
+.expandicon-style{
+height:12px !important
+}
+.iconbutton-height{
+    height:12px !important;
+    padding: 2px !important;
+}
+.iconmenu-height{
+    height:2px !important;
+    display: block !important
+}
+.react-bs-table table td:hover {
+    white-space: normal;
+    overflow-x: inherit !important;
+    overflow-y: inherit !important;
+    }
+    .bgclr{
+        background-color: white !important ;
+    }
+ 
+    .spinner {
+        width: 40px;
+        height: 40px;
+        background-color: #20a8d8;
+      
+        margin: 400px auto;
+        -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+        animation: sk-rotateplane 1.2s infinite ease-in-out;
+      }
+      
+      @-webkit-keyframes sk-rotateplane {
+        0% { -webkit-transform: perspective(120px) }
+        50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+        100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+      }
+      
+      @keyframes sk-rotateplane {
+        0% { 
+          transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+          -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg) 
+        } 50% { 
+          transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+          -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg) 
+        } 100% { 
+          transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+          -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+        }
+      }
+.float-action-fixed-left
+{
+    position: absolute;
+    height: 77px;
+    width: 84px;
+    margin-top: -38px;
+    margin-left: -5px;
+    background-color: white;
+    z-index: 15;
+    border-right: solid 1px lightblue; 
+    
+}
+.icon-style{
+    margin-top: 18px;
+    font-size: xx-large;
+    
+}

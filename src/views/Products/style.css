@@ -1,0 +1,13 @@
+.btn-add {
+    position: absolute; width: 0px; z-index: auto; left: auto; top: auto;
+
+}
+.btn-add2{
+    position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-0-12 1s linear infinite;
+}
+.btn-add3{
+ position: absolute; width: 5.36px; height: 2px; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(5.6px, 0px); border-radius: 1px;
+}
+.btn-add4{
+    position: absolute; top: -1px; opacity: 0.25; animation: opacity-100-25-1-12 1s linear infinite;
+}
